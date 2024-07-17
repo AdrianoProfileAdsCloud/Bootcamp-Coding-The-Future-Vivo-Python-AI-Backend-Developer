@@ -4,16 +4,16 @@
 
  ## 🛠️  Domínio em Python e suas Estruturas de dados:
 
-- 🎯 1.  `Tipos de operadores`
-- 🎯 2.   `Estruturas Condicionais e de Repetição`
-- 🎯 3.  `Manipulação de strings com python`
-- 🎯 1.  `Criando um sistema bancário com Python(Desafio de projeto)`
-- 🎯 2.  `Trabalhando com listas`
-- 🎯 3.  `Conhecimento em Tuplas`
-- 🎯 1.  `Explorando conjuntos`
-- 🎯 2.   `Aprendendo dicionários`
-- 🎯 3.  `Dominando funções`
-- 🎯 1.  `Desafios de códigos`
+- 🎯 `Tipos de operadores`
+- 🎯 `Estruturas Condicionais e de Repetição`
+- 🎯 `Manipulação de strings com python`
+- 🎯 `Criando um sistema bancário com Python(Desafio de projeto)`
+- 🎯 `Trabalhando com listas`
+- 🎯 `Conhecimento em Tuplas`
+- 🎯 `Explorando conjuntos`
+- 🎯 `Aprendendo dicionários`
+- 🎯 `Dominando funções`
+- 🎯 `Desafios de códigos`
 
 
  
