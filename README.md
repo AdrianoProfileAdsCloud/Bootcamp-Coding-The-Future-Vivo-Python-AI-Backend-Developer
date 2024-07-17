@@ -47,12 +47,13 @@
 <br>
 <br>
 
- 
- Desmistificando os pilares da inteligência artificial(IA):
- • Aplicações práticas da inteligência artificial.
- • Algoritmos e aprendizado de máquina.
- • Processamento de linguagem natural. 
- • Visão computacional.
- • O que são IAs Generativas.
+- [X] **Desmistificando os pilares da inteligência artificial(IA)**
+ - 🎯 `Aplicações práticas da inteligência artificial`
+ - 🎯 `Algoritmos e aprendizado de máquina`
+ - 🎯 `Processamento de linguagem natural`
+ - 🎯 `Visão computacional`
+ - 🎯 `O que são IAs Generativas`
+<br>
+<br>
 
- Agradeço e parabenizo todos os profissionais que tornaram esse bootcamp possível!
+ # Agradeço e parabenizo todos os profissionais que tornaram esse bootcamp possível!
