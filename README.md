@@ -2,18 +2,18 @@
 
 ## Foi muito prazeroso participar deste bootcamp, elaboraram um ótimo conteúdo, para quem está começando a desenvolver na Linguagem de Programação Python. Começamos com o básico e gradativamente no decorrer dos módulos fomos adquirindo mais conhecimentos sobre tópicos mais avançados. O legal é que tudo foi muito bem relacionado, o que resultou em um ótimo resultado!
 
- ## 🛠️  Domínio em Python e suas Estruturas de dados:
+ - [X] **Domínio em Python e suas Estruturas de dados**
 
- 🎯 `Tipos de operadores`
- 🎯 `Estruturas Condicionais e de Repetição`
- 🎯 `Manipulação de strings com python`
-🎯 `Criando um sistema bancário com Python(Desafio de projeto)`
- 🎯 `Trabalhando com listas`
- 🎯 `Conhecimento em Tuplas`
- 🎯 `Explorando conjuntos`
- 🎯 `Aprendendo dicionários`
- 🎯 `Dominando funções`
-- 🎯 `Desafios de códigos`
+ - 🎯 `Tipos de operadores`
+ - 🎯 `Estruturas Condicionais e de Repetição`
+ - 🎯 `Manipulação de strings com python`
+ - 🎯 `Criando um sistema bancário com Python(Desafio de projeto)`
+ - 🎯 `Trabalhando com listas`
+ - 🎯 `Conhecimento em Tuplas`
+ - 🎯 `Explorando conjuntos`
+ - 🎯 `Aprendendo dicionários`
+ - 🎯 `Dominando funções`
+ - 🎯 `Desafios de códigos`
 
 
  
