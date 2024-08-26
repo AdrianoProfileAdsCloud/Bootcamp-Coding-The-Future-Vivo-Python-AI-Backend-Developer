@@ -15,7 +15,7 @@
 
  # O código deve seguir o modelo de classes UML(Autor: Instrutor Guilherme).
 
-![SistemaBancario- UML](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Coding-The-Future-Vivo-Python-AI-Backend-Developer-Sistema-Bancario-com-Python-v3/blob/main/imagens/SistemaBancarioV3-AutorGuilherme.png)
+![SistemaBancario- UML](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Coding-The-Future-Vivo-Python-AI-Backend-Developer/blob/main/PRJ-SistemaBancario_V3/imagens/SistemaBancarioV3-AutorGuilherme.png)
 
 <br>
 <br>
