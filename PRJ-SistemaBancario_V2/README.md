@@ -8,6 +8,6 @@ Neste projeto, busco demostrar todos os conhecimentos adquiridos com as aulas do
 <br>
 <br>
 
-![SistemaBancario](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Dio-Coding-The-Future-Vivo-Python-AI-Backend-Developer-Sistema-Bancario-com-Python/blob/main/sistema-banacrio.png)
+![SistemaBancario](https://github.com/AdrianoProfileAdsCloud/Bootcamp-Coding-The-Future-Vivo-Python-AI-Backend-Developer/blob/main/PRJ-SistemaBancario_V2/sistema-banacrio.png)
 
 
